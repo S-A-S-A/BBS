@@ -1,0 +1,44 @@
+2019-05-18 00:12:43,981 INFO 12632 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 00:12:43,981 INFO 12632 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 00:29:43,030 INFO 212 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 00:29:43,030 INFO 212 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 00:31:08,321 INFO 6524 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 00:31:08,321 INFO 6524 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 00:34:03,766 INFO 19068 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 00:34:03,766 INFO 19068 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 00:34:09,641 INFO 4580 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 00:34:09,642 INFO 4580 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 02:53:29,282 INFO 14284 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 02:53:29,282 INFO 14284 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:18:01,983 INFO 5840 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:18:01,983 INFO 5840 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:19:11,153 INFO 14272 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:19:11,153 INFO 14272 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:22:29,422 INFO 15356 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:22:29,422 INFO 15356 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:28:47,284 INFO 1376 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:28:47,284 INFO 1376 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:28:50,900 INFO 15944 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48669109ms at 2019-05-19 00:00:00.008
+2019-05-18 10:28:50,901 INFO 15944 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48670100ms at 2019-05-19 00:00:01.001
+2019-05-18 10:30:50,962 INFO 15228 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:30:50,963 INFO 15228 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:30:53,622 INFO 8620 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48546384ms at 2019-05-19 00:00:00.006
+2019-05-18 10:30:53,623 INFO 8620 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48547378ms at 2019-05-19 00:00:01.001
+2019-05-18 10:31:51,553 INFO 18668 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:31:51,553 INFO 18668 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:32:39,073 INFO 20096 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:32:39,073 INFO 20096 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:32:42,032 INFO 16112 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48437975ms at 2019-05-19 00:00:00.007
+2019-05-18 10:32:42,033 INFO 16112 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48438968ms at 2019-05-19 00:00:01.001
+2019-05-18 10:43:08,628 INFO 19888 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:43:08,628 INFO 19888 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 10:43:26,877 INFO 5328 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 10:43:26,877 INFO 5328 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 11:11:40,177 INFO 19040 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 11:11:40,178 INFO 19040 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 11:15:35,828 INFO 20152 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 11:15:35,828 INFO 20152 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 13:26:50,130 INFO 8928 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-05-18 13:26:50,130 INFO 8928 [egg-schedule]: register schedule C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-05-18 13:26:51,008 INFO 7256 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 37988996ms at 2019-05-19 00:00:00.004
+2019-05-18 13:26:51,009 INFO 7256 [Timer] C:\Users\xuwei\Desktop\BBS\BBS\API\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 37989992ms at 2019-05-19 00:00:01.001
